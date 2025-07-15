@@ -1,2 +1,2 @@
-# omniTest2
+git pull omniTest2
 # omniTest
